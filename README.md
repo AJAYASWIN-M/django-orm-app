@@ -10,19 +10,15 @@ To develop a Django application to store and retrieve data from a database using
 ## DESIGN STEPS
 
 ### Step 1:
-HTML content creation is done
+create and collect   customers infomartion using django application
 
 ### Step 2:
-Design of webserver workflow
+Implement that as Python code
 
 ### Step 3:
-Implementation using Python code
+push that python code to github
 
-### Step 4:
-Serving the HTML pages.
 
-### Step 5:
-Testing the webserver
 
 
 ## PROGRAM
